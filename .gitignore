@@ -1,0 +1,19 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Docs / lab handouts
+*.docx
+
+# Secrets / local config
+.env
+.env.*
+config.local.php
+secrets/
+
+# Logs
+*.log
+logs/
